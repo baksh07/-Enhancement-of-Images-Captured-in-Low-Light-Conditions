@@ -1,4 +1,4 @@
-# -Enhancement-of-Images-Captured-in-Low-Light-Conditions
+# Enhancement-of-Images-Captured-in-Low-Light-Conditions
 Videos captured in low-light conditions frequently have poor brightness, low contrast, a limited
 range of grayscale, color distortion, jitter, and substantial noise, which negatively affects the
 subjective visual experience of human eyes and severely restricts the effectiveness of high-level
